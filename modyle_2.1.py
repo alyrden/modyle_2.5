@@ -19,4 +19,3 @@ elif not a and not b and not c:
 elif a and b and c:
     sqw_ = first + second + third
     print('\n'.join(sqw_))
-

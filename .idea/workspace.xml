@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c6883b-31a6-4af6-ba1e-a95e48e75e55" name="Changes" comment="2.1">
+    <list default="true" id="a0c6883b-31a6-4af6-ba1e-a95e48e75e55" name="Changes" comment="2.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modyle_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/modyle_2.1.py" afterDir="false" />
     </list>
@@ -33,7 +33,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/alyrden/modyle_2.1.git",
+    "url": "https://github.com/alyrden/modyle_2.3.git",
     "accountId": "60301da4-86b0-4c85-a123-a604afb70ad4"
   }
 }]]></component>
@@ -50,10 +50,17 @@
   "keyToString": {
     "Python.modyle_2.0.executor": "Debug",
     "Python.modyle_2.1.executor": "Run",
+    "Python.modyle_2.3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Python"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,12 +125,29 @@
       <option name="project" value="LOCAL" />
       <updated>1724230068319</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2.1">
+      <option name="closed" value="true" />
+      <created>1724394359225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724394359225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2.3">
+      <option name="closed" value="true" />
+      <created>1724401835764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724401835764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.0" />
     <MESSAGE value="2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1" />
+    <MESSAGE value="2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.3" />
   </component>
 </project>
