@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a0c6883b-31a6-4af6-ba1e-a95e48e75e55" name="Changes" comment="2.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modyle_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/modyle_2.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724769009318</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2.3">
+      <option name="closed" value="true" />
+      <created>1724917616518</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724917616518</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2.3">
+      <option name="closed" value="true" />
+      <created>1724917820009</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724917820009</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
