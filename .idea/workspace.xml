@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c6883b-31a6-4af6-ba1e-a95e48e75e55" name="Changes" comment="2.3">
+    <list default="true" id="a0c6883b-31a6-4af6-ba1e-a95e48e75e55" name="Changes" comment="2.1">
+      <change afterPath="$PROJECT_DIR$/modyle_2.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +52,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.modyle_2.0.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.modyle_2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.modyle_2.3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.modyle_2.0.executor": "Debug",
+    "Python.modyle_2.1.executor": "Run",
+    "Python.modyle_2.3.executor": "Run",
+    "Python.modyle_2.4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Python" />
@@ -258,13 +260,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725345522559</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2.1">
+      <option name="closed" value="true" />
+      <created>1725351011086</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725351011086</updated>
+    </task>
+    <task id="LOCAL-00024" summary="2.1">
+      <option name="closed" value="true" />
+      <created>1725351050318</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725351050318</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.0" />
-    <MESSAGE value="2.1" />
     <MESSAGE value="2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.3" />
+    <MESSAGE value="2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1" />
   </component>
 </project>
