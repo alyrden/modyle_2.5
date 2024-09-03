@@ -16,6 +16,7 @@ elif b and not c:
 elif not a and not b and not c:
     sq_ = 0
     print(sq_)
-elif a and b and c:
+else:
+    a and b and c
     sqw_ = first + second + third
     print(3)
