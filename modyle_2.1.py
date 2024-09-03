@@ -20,4 +20,5 @@ else:
     a and b and c
     sqw_ = first + second + third
     print(3)
+    
 # использованны все операторы
